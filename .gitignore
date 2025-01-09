@@ -6,6 +6,7 @@ go.work.sum
 .env
 
 **/.terraform/*
+**/.terraform.lock.hcl
 
 *.tfstate
 *.tfstate.*
