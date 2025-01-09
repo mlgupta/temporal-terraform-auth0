@@ -19,8 +19,8 @@ terraform {
 
 # These needs to come from secrets
 provider "auth0" {
-  domain        = "dev-x065zf5k0esil2fl.us.auth0.com"
-  client_id     = "5t4sCYmnwZ7znshYjquXSy58vo1sdDhS"
-  client_secret = "sL9yjqRkataAUlzafQWs6kIWZO2LMlpSBbub_PuPnTv5I1buHYRPPCpEbDKf0WLO"
+  domain        = "xxx.auth0.com"
+  client_id     = "xxx"
+  client_secret = "xxxxx"
 }
 
